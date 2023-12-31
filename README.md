@@ -1,3 +1,6 @@
+![Screenshot (56)](https://github.com/Atu77l/dzap_frontend/assets/60789960/c82238ae-96d0-4389-b34c-d3b8170a6799)
+![Screenshot (55)](https://github.com/Atu77l/dzap_frontend/assets/60789960/38486d3f-194e-4291-95ca-0b8319606a21)
+![Screenshot (54)](https://github.com/Atu77l/dzap_frontend/assets/60789960/62fa92f4-a8b0-4355-9124-5bc37751fbbd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
